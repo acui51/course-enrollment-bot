@@ -14,6 +14,8 @@
 Update the `SESSION_COOKIE` variable in `app.js` by firing off a test request and copy the cookie in the request headers like so:
 ![image](https://user-images.githubusercontent.com/62365251/205172772-871cc553-7c52-4097-83fc-248790d92fee.png)
 
-## 5 minutes prior to enrollment
+## 2-3 minutes prior to enrollment
 Run `node app.js` in your terminal and profit B)
+
+Note: The app might crash so just restart it
 
